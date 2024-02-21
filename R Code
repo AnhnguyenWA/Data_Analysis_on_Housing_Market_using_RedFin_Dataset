@@ -29,7 +29,7 @@ hist(Zip98404$PRICE)
 ##Show histogram of prices for houses in zip 98404
 
 mean(Zip98404$PRICE)
-##mean of house price in Zip 9404
+##mean of house price in Zip 98404
 
 hist(Zip98466$PRICE)
 ##Show histogram of prices for houses in zip 98466
